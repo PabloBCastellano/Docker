@@ -1,2 +1,2 @@
 # <ins> **Crear un contenedor por comando**</ins>
-* docker run nombrecontenedordedockerhub -dp --name *
+_ docker run nombrecontenedordedockerhub -dp --name _
