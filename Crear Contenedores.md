@@ -10,4 +10,9 @@
     
 
 # <ins> **Iniciar un contenedor por comando**</ins>
+
+* _docker exec -it Idcontenedor chas
+    - -i habilita el modo interactivo
+    -  -t habilita la terminal y con bash indicas cual
+    -  
    
