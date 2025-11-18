@@ -14,5 +14,5 @@
 * _docker exec -it Idcontenedor chas
     - -i habilita el modo interactivo
     -  -t habilita la terminal y con bash indicas cual
-    -  
+      
    
